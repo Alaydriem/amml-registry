@@ -28,6 +28,15 @@
   },
   "versions": [
     {
+      "version": "26.62.0",
+      "api_version": 2,
+      "asset": "https://github.com/alaydriem/amml-minimap/releases/download/26.62.0/minimap-26.62.0-windows-x64.zip",
+      "sha256": "7e82d99309a1c320563307e288799e01474dd1e2ab612f3ebd2b87f2313b2c31",
+      "size": 3578907,
+      "published": "2026-11-05T23:33:37Z",
+      "min_amml": "26.60.6"
+    },
+    {
       "version": "26.60.6",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-minimap/releases/download/26.60.6/minimap-26.60.6-windows-x64.zip",
