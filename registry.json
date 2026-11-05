@@ -1,8 +1,8 @@
 {
   "schema": 2,
   "name": "Official",
-  "published": "2026-11-05T00:11:01Z",
-  "mod_count": 5,
+  "published": "2026-11-05T00:17:16Z",
+  "mod_count": 6,
   "amml": {
     "repo": "alaydriem/amml",
     "versions": [
@@ -22,14 +22,14 @@
     "page_size": 100,
     "apis": {
       "2": {
-        "mods": 5,
+        "mods": 6,
         "pages": 1
       }
     }
   },
   "names": {
     "path": "names.json",
-    "sha256": "3a743e9ae2544f283782a28f96e6330017e39f34e6c48dce92fcfe5db854d4e6",
-    "size": 473
+    "sha256": "32830b4f41c5bb457dbb92cde7a3e1fc1e441ec978f949acf86503ff0d7f1aad",
+    "size": 557
   }
 }
