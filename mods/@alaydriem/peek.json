@@ -27,6 +27,15 @@
   },
   "versions": [
     {
+      "version": "26.63.4",
+      "api_version": 2,
+      "asset": "https://github.com/alaydriem/amml-peek/releases/download/26.63.4/peek-26.63.4-windows-x64.zip",
+      "sha256": "d4246b7ad965a7cd84541888dcd6cbe619ac524a4d496a7a9bb6b451bbfd6866",
+      "size": 226445,
+      "published": "2026-11-10T20:34:59Z",
+      "min_amml": "26.60.6"
+    },
+    {
       "version": "26.62.0",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-peek/releases/download/26.62.0/peek-26.62.0-windows-x64.zip",
