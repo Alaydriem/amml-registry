@@ -54,3 +54,28 @@ mod "alaydriem" "toggles" {
   repo    = "alaydriem/amml-toggles"
   default = true
 }
+
+mod "alaydriem" "quirks" {
+  repo    = "alaydriem/amml-quirks"
+  default = true
+}
+
+mod "alaydriem" "hotbar-manager" {
+  repo    = "alaydriem/amml-hotbar-manager"
+  default = true
+}
+
+mod "alaydriem" "durability-ping" {
+  repo    = "alaydriem/amml-durability-ping"
+  default = true
+}
+
+mod "alaydriem" "dynamic-lighting" {
+  repo    = "alaydriem/amml-dynamic-lighting"
+  default = true
+}
+
+mod "alaydriem" "headless-input" {
+  repo    = "alaydriem/amml-headless-input"
+  default = false
+}
