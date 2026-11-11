@@ -1,0 +1,37 @@
+{
+  "schema": 2,
+  "id": "@alaydriem/headless-input",
+  "namespace": "alaydriem",
+  "name": "headless-input",
+  "repo": "alaydriem/amml-headless-input",
+  "core": false,
+  "default": false,
+  "listing": {
+    "title": "Headless Input",
+    "summary": "Drives the local player with injected input, from live MCP calls or a control file.",
+    "authors": [
+      "Charles R. Portwood II"
+    ],
+    "license": "BSD-3-Clause",
+    "source": "https://github.com/alaydriem/amml-headless-input",
+    "homepage": "https://github.com/alaydriem/amml-headless-input",
+    "tags": [
+      "input",
+      "automation",
+      "mcp",
+      "client"
+    ],
+    "icon": "icons/@alaydriem/headless-input.png"
+  },
+  "versions": [
+    {
+      "version": "26.63.4",
+      "api_version": 2,
+      "asset": "https://github.com/alaydriem/amml-headless-input/releases/download/26.63.4/headless-input-26.63.4-windows-x64.zip",
+      "sha256": "5f4995b4c5c53a7cdf08d86acac9ae023e1267e825348c4184af181b8aee2e9e",
+      "size": 3169508,
+      "published": "2026-11-11T02:47:28Z",
+      "min_amml": "26.60.6"
+    }
+  ]
+}
