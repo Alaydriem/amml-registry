@@ -1,0 +1,38 @@
+{
+  "schema": 2,
+  "id": "@alaydriem/durability-ping",
+  "namespace": "alaydriem",
+  "name": "durability-ping",
+  "repo": "alaydriem/amml-durability-ping",
+  "core": false,
+  "default": true,
+  "listing": {
+    "title": "Durability Ping",
+    "summary": "A tone when your tool is low, and an optional guard before it breaks.",
+    "description": "Plays a tone when the tool in your hand is low on durability, and can guard it before it breaks.\n",
+    "authors": [
+      "Charles R. Portwood II"
+    ],
+    "license": "BSD-3-Clause",
+    "source": "https://github.com/alaydriem/amml-durability-ping",
+    "homepage": "https://github.com/alaydriem/amml-durability-ping#readme",
+    "tags": [
+      "durability",
+      "tools",
+      "client",
+      "utility"
+    ],
+    "icon": "icons/@alaydriem/durability-ping.png"
+  },
+  "versions": [
+    {
+      "version": "26.63.4",
+      "api_version": 2,
+      "asset": "https://github.com/alaydriem/amml-durability-ping/releases/download/26.63.4/durability-ping-26.63.4-windows-x64.zip",
+      "sha256": "b1e0a3ad307c56310366398a2a30119f11b0abb1f1b28de69b9eb573f27c65bc",
+      "size": 646226,
+      "published": "2026-11-11T02:43:10Z",
+      "min_amml": "26.62.0"
+    }
+  ]
+}
