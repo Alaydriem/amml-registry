@@ -27,6 +27,15 @@
   },
   "versions": [
     {
+      "version": "26.63.6",
+      "api_version": 2,
+      "asset": "https://github.com/alaydriem/amml-stratum/releases/download/26.63.6/stratum-26.63.6-windows-x64.zip",
+      "sha256": "cd23bfe0c7b04559dbb2b0b2180a3c60d905a4e0fa9509cd9b4f9f60ace7268f",
+      "size": 3673069,
+      "published": "2026-11-16T04:10:42Z",
+      "min_amml": "26.60.6"
+    },
+    {
       "version": "26.63.4",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-stratum/releases/download/26.63.4/stratum-26.63.4-windows-x64.zip",
