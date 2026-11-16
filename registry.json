@@ -1,11 +1,21 @@
 {
   "schema": 2,
   "name": "Official",
-  "published": "2026-11-11T02:47:28Z",
+  "published": "2026-11-16T03:01:09Z",
   "mod_count": 14,
   "amml": {
     "repo": "alaydriem/amml",
     "versions": [
+      {
+        "version": "26.63.6",
+        "api_version": 2,
+        "game_versions": [
+          "1.26.63.01"
+        ],
+        "asset": "https://github.com/alaydriem/amml/releases/download/26.63.6/amml-26.63.6-windows-x64.zip",
+        "sha256": "ff682de1edad02ef897302df99f9a57b4e4a3ee68246e6fbf2369b2a5c193c34",
+        "size": 1701142
+      },
       {
         "version": "26.63.4",
         "api_version": 2,
