@@ -25,6 +25,15 @@
   },
   "versions": [
     {
+      "version": "26.63.6",
+      "api_version": 2,
+      "asset": "https://github.com/alaydriem/amml-headless-input/releases/download/26.63.6/headless-input-26.63.6-windows-x64.zip",
+      "sha256": "70af650ff7de0f645c9885d2ae33d4b9e77bc77c7c621a919989a6a44f7edde2",
+      "size": 3407343,
+      "published": "2026-11-16T04:06:24Z",
+      "min_amml": "26.60.6"
+    },
+    {
       "version": "26.63.4",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-headless-input/releases/download/26.63.4/headless-input-26.63.4-windows-x64.zip",
