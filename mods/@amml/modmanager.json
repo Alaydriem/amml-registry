@@ -27,6 +27,14 @@
   },
   "versions": [
     {
+      "version": "26.63.8",
+      "api_version": 3,
+      "asset": "https://github.com/alaydriem/amml-modmanager/releases/download/26.63.8/modmanager-26.63.8-windows-x64.zip",
+      "sha256": "ff6e29f2c38bb1b3350c3da8acb60fc3b69f5256e8850c26e590784047ac72d2",
+      "size": 3538950,
+      "published": "2026-11-27T01:15:47Z"
+    },
+    {
       "version": "26.63.6",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-modmanager/releases/download/26.63.6/modmanager-26.63.6-windows-x64.zip",
