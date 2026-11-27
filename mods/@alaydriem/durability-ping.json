@@ -26,6 +26,14 @@
   },
   "versions": [
     {
+      "version": "26.63.8",
+      "api_version": 3,
+      "asset": "https://github.com/alaydriem/amml-durability-ping/releases/download/26.63.8/durability-ping-26.63.8-windows-x64.zip",
+      "sha256": "1939af4e19a9afae348234dadb1ed9ee3f86df6bcb377f8dd7bf0c02d7a44644",
+      "size": 828821,
+      "published": "2026-11-27T04:03:19Z"
+    },
+    {
       "version": "26.63.4",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-durability-ping/releases/download/26.63.4/durability-ping-26.63.4-windows-x64.zip",
