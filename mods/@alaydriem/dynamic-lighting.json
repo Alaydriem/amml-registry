@@ -25,6 +25,14 @@
   },
   "versions": [
     {
+      "version": "26.63.8",
+      "api_version": 3,
+      "asset": "https://github.com/alaydriem/amml-dynamic-lighting/releases/download/26.63.8/dynamic-lighting-26.63.8-windows-x64.zip",
+      "sha256": "b83ab23459ffce6dd64ace37bdc27f9bb5d60fd434df0da5a34543dca797f737",
+      "size": 713608,
+      "published": "2026-11-27T04:07:13Z"
+    },
+    {
       "version": "26.63.4",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-dynamic-lighting/releases/download/26.63.4/dynamic-lighting-26.63.4-windows-x64.zip",
