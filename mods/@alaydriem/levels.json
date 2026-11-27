@@ -27,6 +27,14 @@
   },
   "versions": [
     {
+      "version": "26.63.8",
+      "api_version": 3,
+      "asset": "https://github.com/alaydriem/amml-levels/releases/download/26.63.8/levels-26.63.8-windows-x64.zip",
+      "sha256": "20ba95e876eb12e67f692063d4f14c9572f9511540e660201853600ce2f3078c",
+      "size": 844052,
+      "published": "2026-11-27T04:24:41Z"
+    },
+    {
       "version": "26.63.4",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-levels/releases/download/26.63.4/levels-26.63.4-windows-x64.zip",
