@@ -26,6 +26,14 @@
   },
   "versions": [
     {
+      "version": "26.63.8",
+      "api_version": 3,
+      "asset": "https://github.com/alaydriem/amml-zoom/releases/download/26.63.8/zoom-26.63.8-windows-x64.zip",
+      "sha256": "45fd1b31b008c881ca24a9f9cd38070339035442f5403e1eb9863bcbd261c3d7",
+      "size": 743880,
+      "published": "2026-11-27T04:55:29Z"
+    },
+    {
       "version": "26.63.4",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-zoom/releases/download/26.63.4/zoom-26.63.4-windows-x64.zip",
