@@ -27,6 +27,14 @@
   },
   "versions": [
     {
+      "version": "26.63.8",
+      "api_version": 3,
+      "asset": "https://github.com/alaydriem/amml-toggles/releases/download/26.63.8/toggles-26.63.8-windows-x64.zip",
+      "sha256": "d421b8c357dae45fe84a26523b814200efb89ef9120b47ffbe714e7c67a4c08d",
+      "size": 734485,
+      "published": "2026-11-27T04:50:50Z"
+    },
+    {
       "version": "26.63.4",
       "api_version": 2,
       "asset": "https://github.com/alaydriem/amml-toggles/releases/download/26.63.4/toggles-26.63.4-windows-x64.zip",
